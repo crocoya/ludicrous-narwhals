@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "ludicrous": "apps/ludicrous",
+    "ludicrous-e2e": "apps/ludicrous-e2e"
+  }
+}
